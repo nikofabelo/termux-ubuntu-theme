@@ -1,5 +1,5 @@
 # termux-ubuntu-theme
-Ubuntu Terminal color scheme for Termux.
+Ubuntu Terminal color scheme and font for Termux.
 
 ## Installation instructions.
 Open a new session in Termux and issue the following commands.
