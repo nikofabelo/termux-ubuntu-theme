@@ -11,4 +11,8 @@ Open a new session in Termux and issue the following commands.
 After doing so, exit the app, then open it again, changes will be applied.
 
 ## Screenshots.
-![screenshot.png](https://github.com/nikofabelo/termux-ubuntu-theme/screenshot.png)
+![screenshot.png](screenshot.png)
+
+## DISCLAIMER
+Ubuntu Mono Bold font (font.ttf file) is released under the [UFL](https://assets.ubuntu.com/v1/81e5605d-ubuntu-font-licence-1.0.txt) license.<br>
+Regarding Ubuntu Terminal color scheme it may have it's own copyright notice, same I couldn't find.
